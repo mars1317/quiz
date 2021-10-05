@@ -1,0 +1,17 @@
+.Quiz {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    flex-grow: 1;
+    width: 100%;
+    background-color: #f4f4f4;
+}
+
+.Quiz h1 {
+    color: #5D5D62;
+    margin-left: 10px;
+}
+
+.QuizWrapper {
+    width: 600px;
+}
